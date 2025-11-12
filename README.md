@@ -57,3 +57,4 @@ APPWRITE_COLLECTION_ID=notes
 
 # Run 
 flutter run 
+
